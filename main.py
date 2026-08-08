@@ -45,7 +45,7 @@ except ImportError:
         NORMAL = '\033[22m'
         RESET_ALL = '\033[0m'
 
-CONFIG_FILE = "vague_config.json"
+CONFIG_FILE = "config.json"
 CURRENT_THEME = "cyber"
 MAIN_BANNER = ""
 USERNAME = getpass.getuser()
