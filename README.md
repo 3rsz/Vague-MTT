@@ -24,7 +24,7 @@
 ## ✨ Features
 
 ### 🎮 Discord Tools (27 Commands)
-Server management, user management (ban/kick/roles), channel operations, webhook control, invite system, audit logs, backup/restore
+Server bomb, user bomb (ban/kick/roles), channel editing/create/delete, webhook spamming, invite links, audit logs, backup/restore
 
 ### 🔍 OSINT Tools (22 Commands)
 Username discovery (15+ platforms), domain intelligence (WHOIS/DNS), IP analysis (geolocation/ASN), security checks (leaked passwords/SSL), network scanning
