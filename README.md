@@ -40,7 +40,7 @@ Hardware info (CPU/memory/disk/battery), process management, network scanning, f
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/vague.git
+git clone https://github.com/i-wwww/vague.git
 cd vague
 pip install -r requirements.txt
 ```
