@@ -1,4 +1,4 @@
-# 🔮 Vague - Advanced Multi-Tool Suite
+# 🔮 Vague - Advanced Multi-Tool 
 
 <div align="center">
 
